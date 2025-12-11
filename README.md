@@ -59,14 +59,14 @@ Steps performed:
 
 ## Models Implemented
 
-### **Model 1 — Neural Network (NN)**  
+### **Model 1 - Neural Network (NN)**  
 Built using TensorFlow/Keras or PyTorch:
 - Dense layers  
 - ReLU activation  
 - Dropout (optional)  
 - Sigmoid output for binary classification  
 
-### **Model 2 — Convolutional Neural Network (CNN)**  
+### **Model 2 - Convolutional Neural Network (CNN)**  
 CNN applied on reshaped tabular data:
 - Conv1D / Conv2D layers  
 - MaxPooling layers  
