@@ -99,7 +99,7 @@ Metrics used:
 
 ```bash
 git clone <repo-url>
-cd MNIST-Digit-Classifier-PyTorch
+cd ChurnPrediction_NN_and_CNN
 ```
 
 2. Install dependencies:
